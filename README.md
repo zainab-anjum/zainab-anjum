@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zainab Anjum
 
-### Multimodal AI Training Specialist | LLM Alignment | Prompt Engineer
+### Multimodal AI Training Specialist | LLM Alignment | Prompt Engineer | Master's in English
 
 I am an expert in bridging the gap between human intuition and model reasoning. Specialized in audio-visual temporal cues, robotics dataset curation, and ASR hallucination detection. 
 
