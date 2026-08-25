@@ -12,7 +12,7 @@ My repositories document the processes, reasoning, and best practices behind hig
 ---
 
 ### 🛠️ What I'm Up To:
-- 🌱 **Learning:** Currently mastering **Python**—the language of AI—to deepen my technical training capabilities.
+- 🌱 **Learning:** Currently studying **Python**—the language of AI—to deepen my technical training capabilities.
 - 🤝 **Collaboration:** Looking to collaborate on anything and **AI-vrything**.
 - 💬 **Ask me about:** My cats, the socio-political state of the world, or my favorite ice cream flavor.
 - 🎭 **Pronouns:** She/Her
