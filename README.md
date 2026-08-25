@@ -1,10 +1,13 @@
 # Hi there 👋 I'm Zainab Anjum
 
+
 ### Multimodal AI Training Specialist | LLM Alignment | Prompt Engineer | Master's in English
 
-I am an expert in bridging the gap between human intuition and model reasoning. Specialized in audio-visual temporal cues, robotics dataset curation, and ASR hallucination detection. 
 
-With over two years of experience in the AI industry, I bring loads of patience, high attention to detail, and a laser focus to every project. I use GitHub to document the logic behind high-fidelity AI training.
+I specialize in bridging the gap between human intuition and model reasoning. Over the past two years, I've worked across audio-visual temporal cues, robotics dataset curation, computer vision, and ASR hallucination detection.
+My repositories document the processes, reasoning, and best practices behind high-quality AI training and evaluation.
+
+**What do I bring to the table?** Loads of patience, a keen eye for detail, an obsession with clarity, and a deep appreciation for nuance. The most interesting problems in AI rarely have simple answers, and I love delving in all things complicated.
 
 ---
 
