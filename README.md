@@ -7,7 +7,7 @@
 I specialize in bridging the gap between human intuition and model reasoning. Over the past two years, I've worked across audio-visual temporal cues, robotics dataset curation, computer vision, and ASR hallucination detection.
 My repositories document the processes, reasoning, and best practices behind high-quality AI training and evaluation.
 
-**What do I bring to the table?** Loads of patience, a keen eye for detail, an obsession with clarity, and a deep appreciation for nuance. The most interesting problems in AI rarely have simple answers, and I love delving in all things complicated.
+**What do I bring to the table?🎯** Loads of patience, a keen eye for detail, an obsession with clarity, and a deep appreciation for nuance. The most interesting problems in AI rarely have simple answers, and I love delving in all things complicated.
 
 ---
 
